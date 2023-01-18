@@ -29,6 +29,8 @@ Before starting the assignment, be sure to do the following:
 
 ## PyBank Instructions
 
+![revenue-per-lead](https://user-images.githubusercontent.com/119762874/213275546-39f53a4a-800f-4c14-b339-88c64bc7261c.png)
+
 In this challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will give a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: "Date" and "Profit/Losses". (Thankfully, your company has rather lax standards for accounting, so the records are simple.)
 
 Your task is to create a Python script that analyzes the records to calculate each of the following:
@@ -58,6 +60,9 @@ Your analysis should look similar to the following:
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
 ## PyPoll Instructions
+
+![Vote_counting](https://user-images.githubusercontent.com/119762874/213275567-dd157d0b-0c03-435d-ad54-2650cfd101b8.png)
+
 
 In this challenge, you are tasked with helping a small, rural town modernize its vote counting process.
 
@@ -112,9 +117,3 @@ In addition, your final script should both print the analysis to the terminal an
 - - -
 
 © 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-
-![revenue-per-lead](https://user-images.githubusercontent.com/119762874/213275546-39f53a4a-800f-4c14-b339-88c64bc7261c.png)
-
-
-![Vote_counting](https://user-images.githubusercontent.com/119762874/213275567-dd157d0b-0c03-435d-ad54-2650cfd101b8.png)
-
